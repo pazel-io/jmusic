@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/pazel-io/jmusic/static/css/main.9f114ec5.chunk.css",
-    "main.js": "/pazel-io/jmusic/static/js/main.17bfc918.chunk.js",
-    "main.js.map": "/pazel-io/jmusic/static/js/main.17bfc918.chunk.js.map",
-    "runtime-main.js": "/pazel-io/jmusic/static/js/runtime-main.ceba2b46.js",
-    "runtime-main.js.map": "/pazel-io/jmusic/static/js/runtime-main.ceba2b46.js.map",
-    "static/css/2.13fa3a7d.chunk.css": "/pazel-io/jmusic/static/css/2.13fa3a7d.chunk.css",
-    "static/js/2.c4704b89.chunk.js": "/pazel-io/jmusic/static/js/2.c4704b89.chunk.js",
-    "static/js/2.c4704b89.chunk.js.map": "/pazel-io/jmusic/static/js/2.c4704b89.chunk.js.map",
-    "static/js/3.1cadb0a1.chunk.js": "/pazel-io/jmusic/static/js/3.1cadb0a1.chunk.js",
-    "static/js/3.1cadb0a1.chunk.js.map": "/pazel-io/jmusic/static/js/3.1cadb0a1.chunk.js.map",
-    "index.html": "/pazel-io/jmusic/index.html",
-    "static/css/2.13fa3a7d.chunk.css.map": "/pazel-io/jmusic/static/css/2.13fa3a7d.chunk.css.map",
-    "static/css/main.9f114ec5.chunk.css.map": "/pazel-io/jmusic/static/css/main.9f114ec5.chunk.css.map",
-    "static/js/2.c4704b89.chunk.js.LICENSE.txt": "/pazel-io/jmusic/static/js/2.c4704b89.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/pazel-io/jmusic/static/media/background1.4f8d6053.jpg"
+    "main.css": "/jmusic/static/css/main.fb9f52bd.chunk.css",
+    "main.js": "/jmusic/static/js/main.17bfc918.chunk.js",
+    "main.js.map": "/jmusic/static/js/main.17bfc918.chunk.js.map",
+    "runtime-main.js": "/jmusic/static/js/runtime-main.dc6056d4.js",
+    "runtime-main.js.map": "/jmusic/static/js/runtime-main.dc6056d4.js.map",
+    "static/css/2.13fa3a7d.chunk.css": "/jmusic/static/css/2.13fa3a7d.chunk.css",
+    "static/js/2.c4704b89.chunk.js": "/jmusic/static/js/2.c4704b89.chunk.js",
+    "static/js/2.c4704b89.chunk.js.map": "/jmusic/static/js/2.c4704b89.chunk.js.map",
+    "static/js/3.1cadb0a1.chunk.js": "/jmusic/static/js/3.1cadb0a1.chunk.js",
+    "static/js/3.1cadb0a1.chunk.js.map": "/jmusic/static/js/3.1cadb0a1.chunk.js.map",
+    "index.html": "/jmusic/index.html",
+    "static/css/2.13fa3a7d.chunk.css.map": "/jmusic/static/css/2.13fa3a7d.chunk.css.map",
+    "static/css/main.fb9f52bd.chunk.css.map": "/jmusic/static/css/main.fb9f52bd.chunk.css.map",
+    "static/js/2.c4704b89.chunk.js.LICENSE.txt": "/jmusic/static/js/2.c4704b89.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/jmusic/static/media/background1.4f8d6053.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ceba2b46.js",
+    "static/js/runtime-main.dc6056d4.js",
     "static/css/2.13fa3a7d.chunk.css",
     "static/js/2.c4704b89.chunk.js",
-    "static/css/main.9f114ec5.chunk.css",
+    "static/css/main.fb9f52bd.chunk.css",
     "static/js/main.17bfc918.chunk.js"
   ]
 }
